@@ -27,3 +27,15 @@ An interactive, realistic 3D virtual physics laboratory designed to study torsio
 
 Open `index.html` directly in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari).
 The application is fully self-contained in `index.html`.
+
+## Published Project Details
+- **Project Title**: techtitans
+- **Description**: N/A
+- **Version**: 1.0.0
+- **Tags**: N/A
+
+## Git Repository Metadata (Tracked)
+- **Repository URL**: https://github.com/251071677-ship-it/tech-titans.git
+- **Current Branch**: main
+- **Last Commit Hash**: 051d6b3d32125ca5417ad08f28c990e32e701eb5
+- **Last Checked**: 9/28/2026, 4:03:25 PM

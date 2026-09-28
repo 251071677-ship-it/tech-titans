@@ -2,3 +2,8 @@
 Thumbs.db
 *.tmp
 *.log
+node_modules/
+dist/
+techtitans/
+.creatorcode.json
+.creatorcode_prompts_meta.json
